@@ -2,7 +2,7 @@
 
 Load Uri or url in custom chrome.
 
-<img src="https://github.com/sunil676/CustomChrome/blob/master/device-2016-08-29-210647.png" width="492" height="871"/>
+<img src="https://github.com/sunil676/CustomChrome/blob/master/device-2016-08-29-210647.png" width="492" height="700"/>
 
 LINK:
 
