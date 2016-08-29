@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomChrome</string>
+
+    <!--titles for menu items-->
+    <string name="title_menu_1">Menu Item 1</string>
+    <string name="title_menu_2">Menu Item 2</string>
+</resources>
